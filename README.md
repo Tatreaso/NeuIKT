@@ -1,2 +1,2 @@
 # olvass el
-# bootstrap gyakorlat
+"A Függvény se lehet lógvány."
